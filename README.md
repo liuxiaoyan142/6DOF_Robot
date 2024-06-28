@@ -8,4 +8,10 @@
   <img src="https://github.com/liuxiaoyan142/6DOF_Robot/blob/main/SW%E8%A3%85%E9%85%8D%E4%BD%93%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg">
 </div>
 
+## ROS演示视频
+<div align="center">
+  <img src="https://github.com/liuxiaoyan142/6DOF_Robot/blob/main/ROS_video.webm">
+</div>
+
+
 
