@@ -10,8 +10,9 @@
 
 ## ROS演示视频
 <div align="center">
-  <img src="https://github.com/liuxiaoyan142/6DOF_Robot/blob/main/ROS_video.webm">
+  <img src="https://github.com/liuxiaoyan142/6DOF_Robot/blob/main/ROS_video.mp4">
 </div>
+
 
 
 
